@@ -8,5 +8,4 @@ Flask-WTF
 flask_uploads
 passlib~=1.7.2
 WTForms~=2.3.1
-Pillow~=7.0.0
 Werkzeug==0.16.0
