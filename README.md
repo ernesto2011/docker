@@ -4,6 +4,7 @@
  para ejecutar el programa debes tener:
  * S.O linux  
  * Python
+ * docker y docker-compose
 
  ## Comenzando 🚀
  para usar el programa solo debes clonar el repositio o en su caso descargarlo el zip y descomprimirlo para poder usarlo
