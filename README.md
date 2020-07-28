@@ -36,7 +36,7 @@ este es el formulario una vez registrado lo redireccionara a el login y ya logea
   - sudo docker ps (copiamos el id de mongo)
   
  despues ejecutamos el comando
-  - sudo docker exec-it "<id>" bash
+  - sudo docker exec-it "id" bash
  
  despues nos arrojara un entorno virtual de ese contenedor para probar que esta corriendo mongo en ese contenedor ejecutamos
   - mongo
@@ -45,13 +45,13 @@ este es el formulario una vez registrado lo redireccionara a el login y ya logea
   - show dbs
   
  para usar una bd usamos el comando
-  - use "<nombre de la bd>"
+  - use "nombre de la bd"
  
  y para ver las tablas ussmos el comando
-  - show collections "<nombre dela tabla>"
+  - show collections "nombre dela tabla"
  
  para ver los registor usamos el comando
-  - db."<nombre de la tabla>".find()
+  - db."nombre de la tabla".find()
 
 
 
