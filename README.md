@@ -13,7 +13,7 @@
    
 ## pruebas ⚙️
  para empezar situarse dentro de la carpeta que se creo a la hora de clonar el repositorio con el siguiente comando:
- - cd basic_flaskapp_container
+ - cd docker
  
  Compilar el contenedor (este proceso puede tardar varios minutos pues descargara varios archivos dependiendo de su internet)
 - sudo docker-compose up -d
