@@ -10,7 +10,7 @@
  para usar el programa solo debes clonar el repositio o en su caso descargarlo el zip y descomprimirlo para poder usarlo
  
  Puede usar el comando:
-  - git clone "link del repositorio"
+  - git clone https://github.com/ernesto2011/docker.git
    
 ## pruebas ⚙️
  para empezar situarse dentro de la carpeta que se creo a la hora de clonar el repositorio con el siguiente comando:
