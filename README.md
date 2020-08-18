@@ -5,11 +5,17 @@
  * S.O linux  
  * Python
  * docker y docker-compose
+      para instalar docker y docker-compose usa los siguientes comandos
+      - sudo apt-get update
+      -sudo apt install docker.io
+      para verificar la versión o si realmente se ha instalado usamos el siguiente comando:
+         - docker --version
+      -
 
  ## Comenzando 🚀
  para usar el programa solo debes clonar el repositio o en su caso descargarlo el zip y descomprimirlo para poder usarlo
  
- Puede usar el comando:
+ Puede usar el comando (copia toda la linea junto con el link):
   - git clone https://github.com/ernesto2011/docker.git
    
 ## pruebas ⚙️
