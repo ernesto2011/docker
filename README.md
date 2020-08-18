@@ -10,7 +10,7 @@
       -sudo apt install docker.io
       para verificar la versión o si realmente se ha instalado usamos el siguiente comando:
          - docker --version
-      -
+      
 
  ## Comenzando 🚀
  para usar el programa solo debes clonar el repositio o en su caso descargarlo el zip y descomprimirlo para poder usarlo
