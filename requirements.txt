@@ -9,5 +9,5 @@ flask_uploads
 passlib~=1.7.2
 WTForms~=2.3.1
 Pillow~=10.3.0
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 flask_session
